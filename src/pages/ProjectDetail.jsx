@@ -19,11 +19,6 @@ const ProjectDetail = () => {
       status: 'Actif',
       launchDate: 'Janvier 2024',
       location: 'Guinée',
-      team: [
-        { name: 'Marie Konaté', role: 'Chef de Projet', avatar: 'MK' },
-        { name: 'Paul Diallo', role: 'Ingénieur Satellite', avatar: 'PD' },
-        { name: 'Fatoumata Bah', role: 'Support Client', avatar: 'FB' }
-      ],
       faq: [
         {
           question: 'Quelle est la vitesse de connexion réelle avec Starlink ?',

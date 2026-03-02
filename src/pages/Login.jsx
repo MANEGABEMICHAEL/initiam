@@ -57,18 +57,12 @@ const Login = () => {
                     <User size={24} />
                   </div>
                   <div>
-                    <h3 className="font-semibold">Espace Client</h3>
+                    <h3 className="font-semibold">Chers Clients</h3>
                     <p className="text-blue-100">Suivez vos projets et gérez vos abonnements</p>
                   </div>
                 </div>
                 <div className="flex items-center space-x-3">
-                  <div className="w-12 h-12 bg-white bg-opacity-20 rounded-lg flex items-center justify-center">
-                    <Shield size={24} />
-                  </div>
-                  <div>
-                    <h3 className="font-semibold">Espace Admin</h3>
-                    <p className="text-blue-100">Gérez tous les projets et les utilisateurs</p>
-                  </div>
+            
                 </div>
               </div>
             </div>
